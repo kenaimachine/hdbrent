@@ -1,7 +1,6 @@
 name: hdbrent-environment
 channels:
   - conda-forge
-
 dependencies:
   - numpy
   - pandas
