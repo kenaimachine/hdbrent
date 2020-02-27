@@ -7,3 +7,6 @@ dependencies:
   - panel
   - matplotlib
   - bokeh
+  - dill
+  - psutil
+  -toolz
