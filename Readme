@@ -1,5 +1,6 @@
-Display HDB Median Rent
-source of data: https://data.gov.sg/dataset/median-rent-by-town-and-flat-type
+<h1>Display HDB Median Rent</h1>
+
+<b>source of data: https://data.gov.sg/dataset/median-rent-by-town-and-flat-type</b>
 
 Median Rent by Town, Flat Type Per Quarter. 
 The data is based on rent self-declared in the renting out of flat application. 
