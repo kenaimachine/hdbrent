@@ -5,6 +5,7 @@ dependencies:
   - numpy
   - pandas
   - panel
+  - ipywidgets
   - matplotlib
   - pyviz::param
   - pyviz::pyviz_comms
