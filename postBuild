@@ -1,5 +1,6 @@
 # enable nbserverproxy
-jupyter serverextension enable --sys-prefix nbserverproxy
+#jupyter serverextension enable --sys-prefix nbserverproxy
+jupyter serverextension enable --sys-prefix jupyter_server_proxy
 # install the panel server extension so that
 # panel launches at startup
 #install the panelserverextension to start processes
