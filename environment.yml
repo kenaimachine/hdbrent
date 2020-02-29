@@ -13,3 +13,4 @@ dependencies:
   - bokeh::bokeh
   - pyviz::panel
   - tornado<6  
+  - jupyter-server-proxy
