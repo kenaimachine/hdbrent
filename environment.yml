@@ -16,3 +16,9 @@ dependencies:
   - pip:
     - jupyter-server-proxy
     - nbserverproxy
+commands:
+  dashboard:
+    unix: panel serve hdbRent.ipynb
+    supports_http_options: true
+  notebook:
+    notebook: hdbRent.ipynb
