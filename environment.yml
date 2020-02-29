@@ -6,11 +6,12 @@ dependencies:
   - pandas
   - panel
   - matplotlib
-  - nbserverproxy
   - pyviz::param
   - pyviz::pyviz_comms
   - pyviz::datashader
   - bokeh::bokeh
   - pyviz::panel
-  - tornado<6  
-  - jupyter-server-proxy
+  - tornado<6 
+  - pip:
+    - jupyter-server-proxy
+    - nbserverproxy
