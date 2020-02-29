@@ -1,7 +1,7 @@
 # Display HDB Median Rent
 
 Launch in Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kenaimachine/hdbrent/master?urlpath%3D%2Fproxy%2F5006%2FhdbRent)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kenaimachine/hdbrent/master?urlpath=/proxy/5006/hdbRent)
 
 ```
 source of data: 
