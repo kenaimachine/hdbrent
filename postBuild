@@ -4,6 +4,6 @@ jupyter serverextension enable --sys-prefix jupyter_server_proxy
 # install the panel server extension so that
 # panel launches at startup
 #install the panelserverextension to start processes
-mv panelserverextension.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
+#mv panelserverextension.py ${NB_PYTHON_PREFIX}/lib/python*/site-packages/
 # enable panel extension
 jupyter serverextension enable --sys-prefix panelserverextension
